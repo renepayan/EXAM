@@ -28,6 +28,7 @@ python3 adventure.py 10
 ```
 Si se ejecuta correctamente se desplegara una barra de progreso indicando el porcentaje de descarga de la informacion
 <img width="727" alt="Captura de Pantalla 2021-07-23 a la(s) 5 25 23 a m" src="https://user-images.githubusercontent.com/4644454/126769566-3c6893d1-1c2e-4711-98ee-c99836c60c2a.png">
+
 Y al concluir mostrara el siguiente mensaje, indicando cuantas casas se descargaron
 <img width="731" alt="Captura de Pantalla 2021-07-23 a la(s) 5 25 56 a m" src="https://user-images.githubusercontent.com/4644454/126769622-df360883-a22b-496a-83b0-ae231cb652d5.png">
 ## Consideraciones
